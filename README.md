@@ -12,6 +12,8 @@ LibraryNodeExpress_TypeScriptMongoDB/
 │   │      └── userController.ts  
 │   ├── db/   
 │   │      └── conection.ts   
+│   ├── middleware/     
+│   │      └── auth.ts    
 │   ├── models/  
 │   │      ├── authorModel.ts   
 │   │      ├── bookModel.ts  
