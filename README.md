@@ -1,6 +1,6 @@
 ## LibraryNodeExpress_TypeScriptMongoDB
 
-**LibraryNodeExpress_TypeScriptMongoDB** is an NodeJS + Express API that manages library-related information, including authors, books, and publishing houses, as well as handling user authentication and logging actions performed on the system.
+**LibraryNodeExpress_TypeScriptMongoDB** is an NodeJS + Express API that manages library-related information, including authors, books, and publishing houses, as well as handling user authentication and logging actions performed on the system. It uses TypeScript, MongoDB and JWT for authentication.
 
 LibraryNodeExpress_TypeScriptMongoDB/  
 ├── src/    
